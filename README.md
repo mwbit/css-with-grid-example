@@ -1,4 +1,4 @@
-# CSS-LAYOUT-WITHOUT-GRID 
+# CSS-LAYOUT-WITH-GRID 
 
 This project is a simple example to write a css-layout code using a grid system.
 
